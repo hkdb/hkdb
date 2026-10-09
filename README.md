@@ -4,24 +4,36 @@
   <tr>
     <td>
       <a href="https://github.com/hkdb/flugo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkdb&repo=flugo" alt="flugo" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hkdb&repo=flugo&description_lines_count=2&theme=tokyonight" />
+          <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=hkdb&repo=flugo&description_lines_count=2&theme=default" alt="flugo" />
+        </picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/instacryptio/icfx">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=icfx" alt="icfx" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=icfx&description_lines_count=2&theme=tokyonight" />
+          <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=icfx&description_lines_count=2&theme=default" alt="icfx" />
+        </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/instacryptio/ic-cli">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=ic-cli" alt="ic-cli" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=ic-cli&description_lines_count=2&theme=tokyonight" />
+          <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=ic-cli&description_lines_count=2&theme=default" alt="ic-cli" />
+        </picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/instacryptio/ic-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=ic-app" alt="ic-app" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=ic-app&description_lines_count=2&theme=tokyonight" />
+          <img width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=instacryptio&repo=ic-app&description_lines_count=2&theme=default" alt="ic-app" />
+        </picture>
       </a>
     </td>
   </tr>
