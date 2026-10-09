@@ -1,4 +1,4 @@
-## 🏗 My Other Projects
+## 🏗 Other Projects
 
 <table>
   <tr>
