@@ -31,7 +31,7 @@
     <td>
       <a href="https://github.com/instacryptio/ic-app">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="github-stats-extended.vercel.app/api/pin/?username=instacryptio&repo=ic-app&description_lines_count=3&theme=tokyonight&cache_seconds=86400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=instacryptio&repo=ic-app&description_lines_count=3&theme=tokyonight&cache_seconds=86400" />
           <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=instacryptio&repo=ic-app&description_lines_count=3&theme=default&cache_seconds=86400" alt="ic-app" />
         </picture>
       </a>
